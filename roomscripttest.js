@@ -24,9 +24,9 @@ function addGlobalStyle(css){
 //
 //addGlobalStyle('#button-lobby {background-image: max-height:0px;max-width:0px;}');
 //
-//addGlobalStyle('#button-vote-positive {background-image: url("http://cloud.github.com/downloads/Punkred/DnBplug/ButtonVotePositive.png") ;}');
+addGlobalStyle('#button-vote-positive {background-image: url("http://cloud.github.com/downloads/Punkred/DnBplug/ButtonVotePositive.png") ;}');
 //
-//addGlobalStyle('#button-vote-negative {background-image: url("http://cloud.github.com/downloads/Punkred/DnBplug/ButtonVoteNegative.png")!important ;}');
+addGlobalStyle('#button-vote-negative {background-image: url("http://cloud.github.com/downloads/Punkred/DnBplug/ButtonVoteNegative.png")!important ;}');
 //
 //addGlobalStyle('#logo {background-image: url("");min-height:33px;min-width:131px;}');
 //
@@ -38,7 +38,7 @@ addGlobalStyle('#room-wheel {background-image: max-height:0px;max-width:0px;}');
 //
 //addGlobalStyle('#user-fans {background-image: url("");maxheight:25px;max-width:25px;}');
 //
-addGlobalStyle('html{background: url("http://i.imgur.com/hb1kZvD.jpg") no-repeat scroll center top #000000;');
+addGlobalStyle('html{background: url("http://i.imgur.com/fziQ1KI.jpg") no-repeat scroll center top #000000;');
 //
 //addGlobalStyle('#button-dj-play.button-dj {background-image: url("")!important;}');
 //
